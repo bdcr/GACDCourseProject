@@ -39,7 +39,7 @@ run_analysis outputs the average (NORMALIZED/unit-less/-1<VALUE<1) value for eac
 * Mag = Magnitude
 * angle = measurement of angular displacement (only present in measurement containing a body/gravity pair:
 
-###Variables 88
+###Variables (88):
 
 * subject
 * activity
