@@ -4,7 +4,7 @@
 
 run_analysis.r takes raw data from an experiment conducted by Reyes-Ortiz, Anguita, Ghio and Oneto and the Non-Linear Systems Laboratory at the University of Genoa, Italy and distills it into a tidy dataset for further analysis. Before running run_analysis.r, please read full experiment documentation at http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones.
 
-run_analysis takes the raw data described above and stiches it together into one large dataset containing data from both the test and train groups. It then adds labels for all variables recorded, activities performed by each subject and identifiers for each subject. Once all data is combined into a dataset, it extracts only those variables which describe the mean or standard deviation of an observation. Finally it calculates the mean of the extracted measurements for each subject and each activity pair and prints hat information to a file entitled tidyWearables_averages.txt
+run_analysis takes the raw data described above and stiches it together into one large dataset containing data from both the test and train groups. It then adds labels for all variables recorded, activities performed by each subject and identifiers for each subject. Once all data is combined into a dataset, it extracts only those variables which describe the mean or standard deviation of an observation. Finally it calculates the mean of the extracted measurements for each subject and each activity pair and prints that information to a file entitled tidyWearables_averages.txt
 
 ##Prerequisites:
 
