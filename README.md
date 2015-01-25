@@ -1,6 +1,6 @@
 # GACDCourseProject
 
-##Description
+##Description:
 
 run_analysis.r takes raw data from an experiment conducted by Reyes-Ortiz, Anguita, Ghio and Oneto and the Non-Linear Systems Laboratory at the University of Genoa, Italy and distills it into a tidy dataset for further analysis. Before running run_analysis.r, please read full experiment documentation at http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones.
 
